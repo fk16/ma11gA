@@ -22,19 +22,19 @@
 
 |Funktion | Ableitung |
 |-----|-----|
-|$l(x) = \ln(2x + 1)$   |$l'(x)= $|
-|$m(x) = \ln(3x^2 + 5)$ |$m'(x)= $|
-|$n(x) = \ln(4x - 2)$   |$n'(x)= $|
-|$p(x) = \ln(x^2 + 3)$  |$p'(x)= $|
+|$l(x) = \ln(2x + 1)$   |$l'(x)= 2\cdot\frac{1}{2x+1}=\frac{2}{2x+1}$|
+|$m(x) = \ln(3x^2 + 5)$ |$m'(x)= 6x\cdot\frac{1}{3x^2+5}=\frac{6x}{3x^2+5}$|
+|$n(x) = \ln(4x - 2)$   |$n'(x)= \frac{4}{4x-2}$|
+|$p(x) = \ln(x^2 + 3)$  |$p'(x)= \frac{2x}{x^2+3}$|
 
 4. **Trigonometrische Funktionen**:
 
 |Funktion | Ableitung |
 |-----| -----|
-|$s(x) = \sin(2x)$   |$s'(x)= $|
-|$c(x) = \cos(3x^2)$ |$c'(x)= $|
-|$t(x) = \tan(4x)$   |$t'(x)= $|
-|$a(x) = \sin(5x+1)$ |$a'(x)= $|
+|$s(x) = \sin(2x)$   |$s'(x)= 2\cos(2x)$|
+|$c(x) = \cos(3x^2)$ |$c'(x)=-6x\cdot \sin(3x^2) $|
+|$t(x) = \tan(4x)=\frac{\sin(4x)}{\cos(4x)}$   |$t'(x)=4\cdot \frac{\cos(4x)}{\cos(4x)}+\sin(4x)\cdot 4\cdot (-\sin(4x))\cdot \frac{1}{\cos(4x)^2} =4\cdot\(1-\tan(4x)^2\)$|
+|$a(x) = \sin(5x+1)$ |$a'(x)= 5\cdot \cos(5x+1)$|
   
 5. **Gebrochen rationale Funktionen**:  
 
