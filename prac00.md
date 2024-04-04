@@ -1,5 +1,5 @@
 # Ableitungen  
-
+Bilde jeweils die erste Ableitung.
 
 1. **Polynomfunktionen**:
    - $f(x) = 2x^3 - 5x^2 + 3x - 1$
