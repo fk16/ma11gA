@@ -40,7 +40,7 @@
 
 |Funktion | Ableitung |
 |-----| -----|
-|$q(x)=x^{\frac12}+3$ |$q'(x)= $|
-|$u(x)=\(x-4\)^{-\frac23}$ |$u'(x)= $|
-|$k(x)=\sqrt{x^3-2x}$ |$k'(x)= $|
+|$q(x)=x^{\frac12}+3$ |$q'(x)=\frac12 \cdot x^{-\frac12} $|
+|$u(x)=\(x-4\)^{-\frac23}$ |$u'(x)= -\frac23 \cdot (x-4)^{-\frac{5}{3}}$|
+|$k(x)=\sqrt{x^3-2x}$ |$k'(x)= 3x\cdot \frac12\cdot $|
 |$o(x)=4x^{0,4}+3x^{-0,2}$|$o'(x)= $|
