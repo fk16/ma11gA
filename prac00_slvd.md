@@ -1,6 +1,14 @@
 # Ableitungen  
 
-1. **Polynomfunktionen**:
+{:TOC}
+
+## Polynomfunktionen
+
+Polynome sind relativ leicht abzuleiten. Man braucht nur die Potenzregel sowie die Summenregel. 
+
+Aus $a\cdot x^n$ wird so $a\cdot n\cdot x^{n-1}$ und in Summen/Differenzen wird jeder Summand einzeln abgeleitet. 
+
+Konstanten fallen in der Ableitung einfach weg, weil jede Konstante *theoretisch* den Faktor x^0 aufweist ($x^0 = 1$). Aus $k\cdot x^0$ wird $k\cdot 0\cdot x^{-1}$ und durch den Faktor $0$ kann dieser Term einfach weggelassen werden.
 
 |Funktion | Ableitung |
 |-----| -----|
@@ -9,7 +17,8 @@
 |$h(x) = x^5 - 3x^4 + 6x^2 - 8 $|      $h'(x)=5x^4-12x^3+12x$|
 | $p(x) = 3x^2 + 4x + 1     $|      $p'(x)=6x+4$|
 
-2. **Exponentialfunktionen**:
+
+## Exponentialfunktionen
 
 |Funktion | Ableitung |
 |-----|-----|
@@ -18,7 +27,7 @@
 |$w(x) = \exp{(-x)}$|$w'(x)=-\exp(-x) $|
 |$v(x) = 2\cdot \exp{(4x^2)}$|$v'(x)=2\cdot 8x\cdot \exp(4x^2)=16x\cdot\exp(4x^2) $|
 
-3. **Logarithmusfunktionen**:
+## Logarithmusfunktionen
 
 |Funktion | Ableitung |
 |-----|-----|
@@ -27,7 +36,7 @@
 |$n(x) = \ln(4x - 2)$   |$n'(x)= \frac{4}{4x-2}$|
 |$p(x) = \ln(x^2 + 3)$  |$p'(x)= \frac{2x}{x^2+3}$|
 
-4. **Trigonometrische Funktionen**:
+## Trigonometrische Funktionen
 
 |Funktion | Ableitung |
 |-----| -----|
@@ -36,7 +45,7 @@
 |$t(x) = \tan(4x)=\frac{\sin(4x)}{\cos(4x)}$   |$t'(x)=4\cdot \frac{\cos(4x)}{\cos(4x)}+\sin(4x)\cdot 4\cdot (-\sin(4x))\cdot \frac{1}{\cos(4x)^2} =4\cdot\(1-\tan(4x)^2\)$|
 |$a(x) = \sin(5x+1)$ |$a'(x)= 5\cdot \cos(5x+1)$|
   
-5. **Gebrochen rationale Funktionen**:  
+## Gebrochen rationale Funktionen
 
 |Funktion | Ableitung |
 |-----| -----|
