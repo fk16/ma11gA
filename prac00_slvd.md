@@ -1,6 +1,6 @@
 # Ableitungen  
 
-{:TOC}
+{:toc}
 
 ## Polynomfunktionen
 
