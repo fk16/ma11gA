@@ -1,7 +1,5 @@
 # Ableitungen  
 
-{:toc}
-
 ## Polynomfunktionen
 
 Polynome sind relativ leicht abzuleiten. Man braucht nur die Potenzregel sowie die Summenregel. 
