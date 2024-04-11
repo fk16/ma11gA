@@ -48,6 +48,7 @@ $$\frac{d}{dx}\sin(x^2) = \cos(x^2)\cdot 2x$$
   4. $z(x) =\sin(\ln(x))$
 
 ## Quotientenregel
+Die Ableitung des Quotienten von Funktionen ist die Differenz des Quotienten der Ableitung des Zählers und der Funktion im Nenner zum Quotienten aus dem Produkt der Funktion im Zähler mit der Ableitung der Funktion im Nenner zum Quadrat der Funktion im Nenner.
 
 $$\frac{d}{dx} \frac{f(x)}{g(x)}= \frac{f'(x)}{g(x)} - \frac{f(x)\cdot g'(x)}{g(x)^2}$$
 
@@ -56,3 +57,15 @@ $$\frac{d}{dx} \frac{f(x)}{g(x)}= \frac{f'(x)}{g(x)} - \frac{f(x)\cdot g'(x)}{g(
 $$\frac{d}{dx}\frac{x^3}{\sin(x)}= \frac{3x^2}{\sin(x)} - \frac{x^3\cdot\cos(x)}{\sin(x)^2}$$
 
 ### Übung zur Quotientenregel
+
+1. $f(x)= \frac{\sin(x)}{x^2}$
+2.
+
+
+
+
+
+
+
+
+
