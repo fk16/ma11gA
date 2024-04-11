@@ -58,8 +58,10 @@ $$\frac{d}{dx}\frac{x^3}{\sin(x)}= \frac{3x^2}{\sin(x)} - \frac{x^3\cdot\cos(x)}
 
 ### Übung zur Quotientenregel
 
-1. $f(x)= \frac{\sin(x)}{x^2}$
-2.
+  1. $f(x)= \frac{\sin(x)}{x^2}$
+  2. $g(x)=\frac{x^3}{x^2+1}$
+  3. $y(x)=\frac{\sin(x)}{\cos(x)}$
+  4. $z(x)=\frac(\cos(x)}{\exp(x)}$
 
 
 
