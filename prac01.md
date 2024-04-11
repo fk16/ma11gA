@@ -30,7 +30,7 @@ $$\frac{d}{dx} f(g(x)) = f'(g(x))\cdot g'(x)
 
 ### Beispiel zur Kettenregel
 
-$$\frac{d}{dx}\sin(x^2) = \cos(x^2)\cdot 2x
+$$\frac{d}{dx}\sin(x^2) = \cos(x^2)\cdot 2x$$
 
 ### Übung zur Kettenregel
 
@@ -40,6 +40,6 @@ $$\frac{d}{dx} \frac{f(x)}{g(x)}= \frac{f'(x)}{g(x)} - \frac{f(x)\cdot g'(x)}{g(
 
 ### Beispiel zur Quotientenregel
 
-$$\frac{d}{dx}\frac{x^3}{x^2+3x}= \frac{3x^2}{x^2+3x} - \frac{x^3\cdot(2x+3)}{(x^2+3x)^2}$$
+$$\frac{d}{dx}\frac{x^3}{sin(x)}= \frac{3x^2}{sin(x)} - \frac{x^3\cdotcos(x)}{(sin(x)^2}$$
 
 ### Übung zur Quotientenregel
