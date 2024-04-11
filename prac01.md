@@ -40,6 +40,6 @@ $$\frac{d}{dx} \frac{f(x)}{g(x)}= \frac{f'(x)}{g(x)} - \frac{f(x)\cdot g'(x)}{g(
 
 ### Beispiel zur Quotientenregel
 
-$$\frac{d}{dx}\frac{x^3}{sin(x)}= \frac{3x^2}{sin(x)} - \frac{x^3\cdotcos(x)}{(sin(x)^2}$$
+$$\frac{d}{dx}\frac{x^3}{\sin(x)}= \frac{3x^2}{\sin(x)} - \frac{x^3\cdot\cos(x)}{(\sin(x)^2}$$
 
 ### Übung zur Quotientenregel
