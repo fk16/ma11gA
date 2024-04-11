@@ -1,13 +1,13 @@
 # Ableitungsregeln
 
 ## Summenregel
-Die Ableitung der Summe zweier Funktionen ist die SUmme der Ableitungen der einzelnen Funktionen.
+Die Ableitung der Summe zweier Funktionen ist die Summe der Ableitungen der einzelnen Funktionen.
 $$\frac{d}{dx} \(f(x)+g(x)\)= f'(x)+g'(x)$$
 
 ### Beispiel zur Summenregel
 $$\frac{d}{dx}\(x^3+4x-\sin(x)\)=3x^2+4-\cos(x)$$
 
-### Übungen
+### Übungen zur Summenregel
 Bilde jeweils die erste Ableitung.
 
   1. $x^2+3x$
@@ -16,23 +16,36 @@ Bilde jeweils die erste Ableitung.
   4. $\exp(x)+3x+sin(x)$
 
 ## Produktregel
-Die Ableitung eines Produktes von Funktionen ist die Summe aus dem Produkt der Ableitung der einen Funktion mit der anderen Funktion und dem Produkt der ersten Funktion mit der Ableitung der zweiten FUnktion.
+Die Ableitung eines Produktes von Funktionen ist die Summe aus dem Produkt der Ableitung der einen Funktion mit der anderen Funktion und dem Produkt der ersten Funktion mit der Ableitung der zweiten Funktion.
 $$\frac{d}{dx}\(u(x)\cdot v(x)\) = u'(x)\cdot v(x) + u(x)\cdot v'(x)$$
 
 ### Beispiel zur Produktregel
 $$ \frac{d}{dx}\(x^2 \cdot \sin(x)\) = 2x\sin(x) + x^2\cdot cos(x)$$
 
+Hinweis: Hier ist $u(x)=x^2$ und $v(x)=\sin(x)$.
+
 ### Übung zur Produktregel
 
-## Kettenregel
+  1. $f(x)=x^2\sin(x)$
+  2. $g(x)=\exp(x)\cdot\cos(x)$
+  3. $y(x)=\sin(x)\cdot\cos(x)$
+  4. $z(x)=-\cos(x)\cdot 2x^3\cdot \ln(x)$
 
-$$\frac{d}{dx} f(g(x)) = f'(g(x))\cdot g'(x)
+## Kettenregel
+Die Ableitung einer Verkettung von Funktionen ist das Produkt aus innerer und äußerer Ableitung.
+
+$$\frac{d}{dx} f(g(x)) = f'(g(x))\cdot g'(x)$$
 
 ### Beispiel zur Kettenregel
 
 $$\frac{d}{dx}\sin(x^2) = \cos(x^2)\cdot 2x$$
 
 ### Übung zur Kettenregel
+
+  1. $f(x)=\cos(4x^3)$
+  2. $g(x)=\sin(\cos(x))$
+  3. $y(x)= \exp(3x^2-4x)$
+  4. $z(x) =\sin(\ln(x))$
 
 ## Quotientenregel
 
