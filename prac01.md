@@ -22,3 +22,16 @@ $$\frac{d}{dx}\(u(x)\cdot v(x)\) = u'(x)\cdot v(x) + u(x)\cdot v'(x)$$
 ### Beispiel zur Produktregel
 $$ \frac{d}{dx}\(x^2 \cdot \sin(x)\) = 2x\sin(x) + x^2\cdot cos(x)$$
 
+### Übung zur Produktregel
+
+## Kettenregel
+
+### Beispiel zur Kettenregel
+
+### Übung zur Kettenregel
+
+## Quotientenregel
+
+### Beispiel zur Quotientenregel
+
+### Übung zur Quotientenregel
