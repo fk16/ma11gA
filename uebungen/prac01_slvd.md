@@ -31,6 +31,7 @@ $$\frac{d}{dx} f(g(x)) = f'(g(x))\cdot g'(x)$$
 |$z(x) =\sin(\ln(x))$|$z'(x)=\frac1x\cdot \cos(\ln(x))$|
 
 ## Quotientenregel
+$$\frac{d}{dx} \frac{f(x)}{g(x)}= \frac{f'(x)}{g(x)} - \frac{f(x)\cdot g'(x)}{g(x)^2}$$
 
 |Funktion| Ableitung |
 |---|---|
