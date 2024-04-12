@@ -35,7 +35,7 @@ $$\frac{d}{dx} \frac{f(x)}{g(x)}= \frac{f'(x)}{g(x)} - \frac{f(x)\cdot g'(x)}{g(
 
 |Funktion| Ableitung |
 |---|---|
-|$f(x)= \frac{\sin(x)}{x^2}$|$ $|
-|$g(x)=\frac{x^3}{x^2+1}$|$ $|
-|$y(x)=\frac{\sin(x)}{\cos(x)}$|$ $|
-|$z(x)=\frac{\cos(x)}{\exp(x)}$|$ $|
+|$f(x)= \frac{\sin(x)}{x^2}$|$f'(x)=\frac{\cos(x)}{x^2}-\frac{\sin(x)\cdot 2x}{(x^2)^2}=\frac{\cos(x)}{x^2}-\frac{\sin(x)\cdot 2x}{x^4}$|
+|$g(x)=\frac{x^3}{x^2+1}$|$g'(x)=\frac{3x^2}{x^2+1}-\frac{x^3\cdot 2x}{x^2+1)^2}=\frac{3x^2}{x^2+1}-\frac{2x^4}{x^4+2x^2+1} $|
+|$y(x)=\frac{\sin(x)}{\cos(x)}=tan(x)$|$y'(x)=\frac{\cos(x)}{\cos(x)}-\frac{\sin(x)\cdot (-\sin(x))}{\cos(x^2)}= 1+tan(x)^2 $|
+|$z(x)=\frac{\cos(x)}{\exp(x)}$|$z'(x)=\frac{-\sin(x)}{\exp(x)}-\frac{\cos(x)\cdot \exp(x)}{\exp(x)^2} =\frac{-\sin(x)}{\exp(x)}-\frac{\cos(x)}{\exp(x)}$|
