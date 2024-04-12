@@ -17,7 +17,7 @@ $$4x^7 = 4\cdot7 x^6 = 28 x^6$$
    4. $p(x) = 3x^2 + 4x + 1$
 
 ## Exponentialfunktionen
-Die Funktion $\exp(x)$ ist immer gleich ihrer Ableitung also $\frac{d}{dx} \exp(x) = \exp(x)$. Hier muss also nur die Kettenregl beachtet werden und das Argument der Exponentialfunktion getrennt abgeleitet werden und wird anschließend mit der Ursprungsfunktion multiplizert.
+Die Funktion $\exp(x)$ ist immer gleich ihrer Ableitung also $\frac{d}{dx} \exp(x) = \exp(x)$. Hier muss also nur die Kettenregel beachtet werden: Das Argument der Exponentialfunktion muss getrennt abgeleitet werden und wird mit der Ursprungsfunktion multiplizert.
 
 Beispiel:
 $$\frac{d}{dx} 4\exp(x^2) = 4\exp(x^2)\cdot 2x = 8x\cdot\exp(x)$$
