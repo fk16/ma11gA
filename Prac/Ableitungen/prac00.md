@@ -6,8 +6,10 @@ Bilde jeweils die erste Ableitung.
 Für Polynome gilt die Summen und die Potenzregel. Das heißt, dass jedes Termglied einzeln abgeleitet werden muss und allgemein gilt: 
 $$\frac{d}{dx}a\cdot x^n = a\cdot n\cdot x^{n-1}$$
 
-Zum Beispiel:
-$$4x^7 = 4\cdot7 x^6 = 28 x^6$$
+Termgliedern ohne $x$ sind konstant und werden bei der Ableitung zu $0$, weil $5= 5x^0$. Bei der Ableitung wird das dann zu $5\cdot 0\cdot x^{-1}=0$.
+
+### Beispiel für Polynome
+$$\frac{d}{dx}4x^3 +5x^2+99= 4\cdot3 x^2 + 5\cdot 2x+0= 12 x^2+10x$$
 
 ### Übungen zu Polynomen
 
@@ -19,9 +21,10 @@ $$4x^7 = 4\cdot7 x^6 = 28 x^6$$
 ## Exponentialfunktionen
 Die Funktion $\exp(x)$ ist immer gleich ihrer Ableitung also $\frac{d}{dx} \exp(x) = \exp(x)$. Hier muss also nur die Kettenregel beachtet werden: Das Argument der Exponentialfunktion muss getrennt abgeleitet werden und wird mit der Ursprungsfunktion multiplizert.
 
-Beispiel:
+### Beispiel für Exponentialfunktionen
 $$\frac{d}{dx} 4\exp(x^2) = 4\exp(x^2)\cdot 2x = 8x\cdot\exp(x)$$
 
+### Übungen zu Exponentialfunktionen
    1. $y(x) = exp(2x)$
    2. $z(x) = 5\cdot exp(3x)$
    3. $w(x) = exp(-x)$
