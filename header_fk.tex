@@ -1,0 +1,66 @@
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{ngerman}
+\usepackage{setspace}\linespread{1.15}%\onehalfspacing%
+\newlength{\zeile}\setlength{\zeile}{1em}
+\setlength{\parindent}{0pt}\setlength{\parskip}{1em}
+\newlength{\figline}
+\setlength{\figline}{-1em}
+
+%\usepackage{helvet}
+\usepackage[default,scale=1]{opensans}
+\usepackage{subfiles}
+\usepackage{enumitem}
+\usepackage[
+	colorlinks=true, 
+	linkcolor=black, % gray20, % Chart1, % 
+	linktoc=all,
+	urlcolor=black, %gray20, % Chart1, % 
+	citecolor=black, %gray20 % Chart1 % 
+	]{hyperref}
+
+\usepackage{tikz,pgf}
+\usepackage{scrextend}
+\usepackage{longtable,multirow}
+\usepackage{graphicx, wrapfig, subcaption}
+\usepackage[font=small,labelfont=normalfont, figurename=Abb., tablename=Tab.]{caption} 
+\usepackage{pdfpages, pdflscape} % enable pdf subfiles and pdf landscape pages
+
+\usepackage{amsmath, amsfonts, amssymb}
+
+\newenvironment{rcases}{\left.\begin{aligned}}{\end{aligned}\right\rbrace}
+\newenvironment{lcases}{\left\lbrace\begin{aligned}}{\end{aligned}\right.}
+
+\usepackage{makeidx}
+\usepackage{cite}
+%\usepackage[round]{natbib}
+%\usepackage[style=numeric,citestyle=phys]{bibtex}
+
+%\usepackage{biber}
+
+
+\setuptoc{toc}{totoc}
+
+\usepackage{todonotes}
+\usepackage{pifont}
+
+\usepackage{courier}
+\usepackage{listings}
+	\lstset{
+		basicstyle=\ttfamily\footnotesize, 
+		language=C++, 
+		numbers=left,
+		frame=single, 
+		rulesepcolor=\color[gray]{.6},%\color[RGB]{0, 40, 80}, 
+		breaklines=true, 
+		keywordstyle=\bfseries\color[gray]{.25},%\color[RGB]{0, 60, 120},
+		commentstyle=\color[gray]{.5},%\color[RGB]{30, 120, 30},
+		morekeywords={Real, string},
+		showspaces=false, 
+		keepspaces=false,
+	}
+
+\usepackage[yyyymmdd]{datetime}
+\renewcommand{\dateseparator}{-}
