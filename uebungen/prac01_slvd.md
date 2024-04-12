@@ -15,10 +15,10 @@ $$\frac{d}{dx}\(u(x)\cdot v(x)\) = u'(x)\cdot v(x) + u(x)\cdot v'(x)$$
 
 |Funktion| Ableitung |
 |---|---|
-|$f(x)=x^2\sin(x)$|$ $|
-|$g(x)=\exp(x)\cdot\cos(x)$|$ $|
-|$y(x)=\sin(x)\cdot\cos(x)$|$ $|
-|$z(x)=-\cos(x)\cdot 2x^3\cdot \ln(x)$|$ $|
+|$f(x)=x^2\sin(x)$|$f'(x)=2x\sin(x)+x^2\cos(x)$|
+|$g(x)=\exp(x)\cdot\cos(x)$|$g'(x)=\exp(x)\cdot\cos(x)-\exp(x)\cdot\sin(x) $|
+|$y(x)=\sin(x)\cdot\cos(x)$|$y'(x)=\cos(x)\cdot \cos(x)-\sin(x)\sin(x)= \cos(x)^2 - \sin(x)^2$|
+|$z(x)=-\cos(x)\cdot 2x^3\cdot \ln(x)$|$z'(x)=\sin(x)\cdot 2x^3 - \cos(x)\cdot 6x $|
 
 ## Kettenregel
 $$\frac{d}{dx} f(g(x)) = f'(g(x))\cdot g'(x)$$
