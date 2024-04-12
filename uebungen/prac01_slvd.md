@@ -21,6 +21,7 @@ $$\frac{d}{dx}\(u(x)\cdot v(x)\) = u'(x)\cdot v(x) + u(x)\cdot v'(x)$$
 |$z(x)=-\cos(x)\cdot 2x^3\cdot \ln(x)$|$ $|
 
 ## Kettenregel
+$$\frac{d}{dx} f(g(x)) = f'(g(x))\cdot g'(x)$$
 
 |Funktion| Ableitung |
 |---|---|
