@@ -1,6 +1,7 @@
 # Ableitungsregeln
 
 ## Summenregel
+$$\frac{d}{dx} \(f(x)+g(x)\)= f'(x)+g'(x)$$
 
 |Funktion| Ableitung |
 |---|---|
