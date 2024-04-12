@@ -11,6 +11,7 @@ $$\frac{d}{dx} \(f(x)+g(x)\)= f'(x)+g'(x)$$
 |$z(x)=\exp(x)+3x+\sin(x)$|$z'(x)=\exp(x)+3+\cos(x) $|
 
 ## Produktregel
+$$\frac{d}{dx}\(u(x)\cdot v(x)\) = u'(x)\cdot v(x) + u(x)\cdot v'(x)$$
 
 |Funktion| Ableitung |
 |---|---|
