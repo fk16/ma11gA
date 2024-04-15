@@ -25,9 +25,15 @@ $$\int_{-1}^{2}{x^2 dx} = [\frac{1}{3}x^3]_{-1}^{2}= \frac{1}{3} \cdot (2)^3 - \
 
 ## Übung
 
-Ordne die Funktionen ihren Stammfunktionen zu:
+1. Ordne die Funktionen ihren Stammfunktionen zu:
 
 | Funktion| | Stammfunktion |
 |---|---|---|
-|A: $f(x)= 2x-1$| |X: $F(x)=\frac34 x^4-2x^2+1$|
-|B: $f(x)=3x^3-4x$ | | |
+|A: $f(x)= 2x-1$|      |X: $F(x)=\frac34 x^4-2x^2+1$|
+|B: $f(x)=3x^3-4x$ |   |Y: $F(x)=2x^3 - 4x+7$ |
+|C: $f(x)=2x+5$|       |Z: $F(X)=x^2+5x$|
+|D: $f(x)=6x^2-4$|     |Q: $F(x)=x^2-x$|
+
+2. Bestimme eine Stammfunktion zu den folgenden Funktionen
+
+ a) $f(x)= 3x^2-
